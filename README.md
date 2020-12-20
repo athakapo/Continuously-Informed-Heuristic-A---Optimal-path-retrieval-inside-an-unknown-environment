@@ -4,9 +4,8 @@
 
 The developed algorithm ensures the optimal path retrieval between **two given locations** by exploring the **minimum portion of the environment**.
 
-```
-The term "minimum portion of the environment" is defined as the number of cells that have to be visited by the explorer (robot-scouter) to acquire information about the state (obstacle or free space) of their neighbors. 
-```
+*The term "minimum portion of the environment" is defined as the number of cells that have to be visited by the explorer (robot-scouter) to acquire information about the state (obstacle or free space) of their neighbors.*
+
 
 ## Example
 
