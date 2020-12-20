@@ -6,10 +6,11 @@ The developed algorithm ensures the optimal path retrieval between **two given l
 
 *The term "minimum portion of the environment" is defined as the number of cells that have to be visited by the explorer (robot-scouter) to acquire information about the state (obstacle or free space) of their neighbors.*
 
-
 ## Example
 
 ![example_image](http://kapoutsis.info/wp-content/uploads/2020/12/cia_star_example.png)
+
+## Video demonstration
 
 [![Video demonstration](http://kapoutsis.info/wp-content/uploads/2020/12/cia_star_thumbnail.png)](https://www.youtube.com/watch?v=ct_mnyqIjUU)
 
