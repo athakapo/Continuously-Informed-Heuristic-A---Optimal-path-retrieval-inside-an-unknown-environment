@@ -2,8 +2,8 @@
 
 > Kapoutsis, A.C., Malliou, C.M., Chatzichristofis, S.A. and Kosmatopoulos, E.B., 2017, October. Continuously informed heuristic A∗-optimal path retrieval inside an unknown environment. In 2017 IEEE International Symposium on Safety, Security and Rescue Robotics (SSRR) (pp. 216-222). IEEE.
 
-*[Conference paper](https://ieeexplore.ieee.org/abstract/document/8088166)
-*[Preprint](http://kapoutsis.info/wp-content/uploads/2017/10/ssrr2017Final.pdf)
+* [Conference paper](https://ieeexplore.ieee.org/abstract/document/8088166)
+* [Preprint](http://kapoutsis.info/wp-content/uploads/2017/10/ssrr2017Final.pdf)
 
 
 ## Main objective
